@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tie_toc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tie_toc">
+				<Option output="/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/tie_toc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 tie_toc"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tie_toc/fast">
+				<Option output="/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/tie_toc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 tie_toc/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/AlphabetaSearcher.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/AlphabetaSearcher.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/ComputerPlayer.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/ComputerPlayer.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/Evaluator.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/FeEvaluator.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/FeEvaluator.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/GameConst.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/GameState.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/GameState.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/HumanPlayer.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/HumanPlayer.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/MinimaxSearcher.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/MinimaxSearcher.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/NegamaxSearcher.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/NegamaxSearcher.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/Support.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/Support.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/WzEvaluator.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/WzEvaluator.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/headLibrary.h">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/main.cpp">
+			<Option target="tie_toc"/>
+		</Unit>
+		<Unit filename="/Users/mingshi/CLionProjects/tie-toc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

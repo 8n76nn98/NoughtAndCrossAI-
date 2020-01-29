@@ -1,0 +1,3 @@
+/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mingshi/CLionProjects/tie-toc/cmake-build-debug/CMakeFiles/tie_toc.dir
